@@ -1,3 +1,6 @@
+# Australian Prayer Times using ReactJs + Vite
+check the website online: https://au-prayertimes.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
